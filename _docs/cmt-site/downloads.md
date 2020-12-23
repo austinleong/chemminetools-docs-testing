@@ -3,7 +3,7 @@ title: ChemMine Tools - Downloads
 permalink: /cmt-site/downloads/
 ---
 
-# Downloads
+# Lorem Ipsum Downloads
 
 ### ChemMine Tools Web Framework
 

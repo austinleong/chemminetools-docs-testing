@@ -7,7 +7,7 @@ permalink: /cmt-site/home/
 
 <div class="jumbotron">
 
-### Welcome!
+### Lorem Ipsum Welcome!
 
 To get started just [add compounds](/myCompounds/addCompounds/).
 

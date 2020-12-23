@@ -5,7 +5,7 @@ permalink: /cmt-site/about/
 {::options parse_block_html="true" /}
 {::options auto_ids="false" /}
 
-### The Authors
+### Lorem Ipsum The Authors
 
 ChemMine Tools was developed by Tyler Backman, Yiqun Cao, and Thomas Girke.
 
