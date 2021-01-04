@@ -40,7 +40,7 @@ This site is developed with recent (c. 2019) versions of major desktop web brows
 <div class="card-body">
 
 {:.card-title}
-### Free Support
+### LIpsum Free Support
 
 {:.card-text}
 Do you have any questions, bug reports, or suggestions on how we could make ChemMine tools more intuitive, powerful, or useful?
@@ -54,7 +54,7 @@ Do you have any questions, bug reports, or suggestions on how we could make Chem
 <div class="card-body">
 
 {:.card-title}
-### Citing ChemMine Tools
+### Derpsum Citing ChemMine Tools
 
 {:.card-text}
 ChemMine tools: an online service for analyzing and clustering small molecules.
