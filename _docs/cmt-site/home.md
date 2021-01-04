@@ -17,7 +17,7 @@ To get started just [add compounds](/myCompounds/addCompounds/).
 
 ChemMine Web Tools is an online service for analyzing and clustering small molecules by structural similarities, physicochemical properties or custom data types. Compounds can be imported into the workbench by drawing structures in the web browser, copy and paste, from local files, or from a PubChem search which includes an online molecular editor. The website is free and open to all users and there is no login requirement. To obtain an overview of the available services, check out the [help](/help) page.
 
-#### New feature
+#### Lorem Ipsum New feature
 
 All ChemMine Tools can now be used programmatically from the R programming language with [ChemmineR](http://bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html#chemmine-tools-r-interface).
 
