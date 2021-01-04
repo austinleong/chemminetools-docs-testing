@@ -30,14 +30,14 @@ service.
 
 ### Workbench
 
-![dts_cmp_wb]({{'../media/dts_cmp_wb.png' | absolute_url}})
+![dts_cmp_wb]({{'/docs/media/dts_cmp_wb.png' | absolute_url}})
 
 Instead of manually inputting compounds, you may retreive compounds from your
 Workbench using the tag system.
 
 ### Compound IDs
 
-![dts_cmp_cid]({{'../media/dts_cmp_cid.png' | absolute_url}})
+![dts_cmp_cid]({{'/docs/media/dts_cmp_cid.png' | absolute_url}})
 
 Use this to manually input compound IDs. You may search for compounds by typing
 its name into the "Compound Name Search" area. The search box will offer
@@ -66,7 +66,7 @@ type, and ChemMine Tools will translate your IDs via the UniProt service.
 
 ### Target IDs
 
-![dts_tgt]({{'../media/dts_tgt.png' | absolute_url}})
+![dts_tgt]({{'/docs/media/dts_tgt.png' | absolute_url}})
 
 Use this to manually input target IDs. You may search for targets by typing its
 name into the "Target Name Search" area. The search box will offer suggestions
@@ -87,7 +87,7 @@ considerably more time to obtain this data, and is thus disabled by default.
 <div id="div-search-by-target-paralog">
 ## Search By Target Paralog
 
-![dts_pl]({{'../media/dts_pl.png' | absolute_url}})
+![dts_pl]({{'/docs/media/dts_pl.png' | absolute_url}})
 
 This mode is a variation of Search By Target, and is done in two steps. In the
 first step, you provide one or more protein targets (usually UniProt IDs), and
@@ -132,7 +132,7 @@ corresponding to your compound/protein target query.
 
 ### Table Features
 
-![dts_tbl_tools]({{'../media/dts_tbl_tools.png' | absolute_url}})
+![dts_tbl_tools]({{'/docs/media/dts_tbl_tools.png' | absolute_url}})
 
 ### Show/Hide Columns
 
