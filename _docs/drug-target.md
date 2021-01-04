@@ -15,7 +15,7 @@ searches:
 4. [Result Tables](#div-result-tables)
 
 <div id="div-search-by-compound">
-## Search By Compound Ipsum
+## Search By Compound
 
 In this type of search, you provide one or more drug molecules (usually
 ChEMBL IDs), and Drug-Target Search will return a list of proteins that the
