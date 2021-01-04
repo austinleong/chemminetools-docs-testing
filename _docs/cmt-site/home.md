@@ -26,7 +26,7 @@ All ChemMine Tools can now be used programmatically from the R programming langu
 <div class="card-body">
 
 {:.card-title}
-### Browser Recommendation
+### LIpsum Browser Recommendation
 
 {:.card-text}
 This site is developed with recent (c. 2019) versions of major desktop web browsers (Chrome, Firefox, Safari) in mind. Some tools may be unavailable or may not function as expected with other browsers.
