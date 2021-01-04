@@ -2,6 +2,8 @@
 title: Drug-Target Search
 permalink: /docs/drug-target/
 ---
+{::options parse_block_html="true" /}
+{::options auto_ids="false" /}
 
 Drug-Target Search utilizes the ChEMBL database to query relationships between
 small drug-like molecules and protein targets. There are currently 3 types of
@@ -12,8 +14,8 @@ searches:
 3. [Search By Target Paralog](#div-search-by-target-paralog)
 4. [Result Tables](#div-result-tables)
 
-<div id="div-search-by-compound"></div>
-## Search By Compound
+<div id="div-search-by-compound">
+## Search By Compound Ipsum
 
 In this type of search, you provide one or more drug molecules (usually
 ChEMBL IDs), and Drug-Target Search will return a list of proteins that the
@@ -46,8 +48,9 @@ the corresponding ChEMBL ID will be added to your search IDs.
 
 For demonstration purposes, select "Use Sample IDs" to fill the compound ID
 box with some example ChEMBL IDs. Then click "Search" to continue.
+</div>
 
-<div id="div-search-by-target"></div>
+<div id="div-search-by-target">
 ## Search By Target
 
 In this type of search, you provide one or more protein targets (usually
@@ -79,8 +82,9 @@ with some example UniProt IDs. Then click "Search" to continue.
 
 Use this to request assay activity results. Drug-Target Search requires
 considerably more time to obtain this data, and is thus disabled by default.
+</div>
 
-<div id="div-search-by-target-paralog"></div>
+<div id="div-search-by-target-paralog">
 ## Search By Target Paralog
 
 ![dts_pl](../media/dts_pl.png)
@@ -111,8 +115,9 @@ organized as units. A search unit comprises the original ID, and its associated
 paralogs. If you want to exclude certain paralogs from the target search,
 uncheck the box next to it. If you want to remove an entire search unit, click
 the trash icon on the right-hand side.
+</div>
 
-<div id="div-result-tables"></div>
+<div id="div-result-tables">
 ## Result Tables
 
 ### By Annotation
@@ -185,3 +190,4 @@ Accession IDs will be deduplicated before being added to the search.
 
 Perform a text search on the result table. The search spans all columns and
 progressively searches as you type.
+</div>
