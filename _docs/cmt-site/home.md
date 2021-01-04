@@ -7,7 +7,7 @@ permalink: /cmt-site/home/
 
 <div class="jumbotron">
 
-### Lorem Ipsum Welcome!
+### Welcome!
 
 To get started just [add compounds](/myCompounds/addCompounds/).
 
@@ -17,7 +17,7 @@ To get started just [add compounds](/myCompounds/addCompounds/).
 
 ChemMine Web Tools is an online service for analyzing and clustering small molecules by structural similarities, physicochemical properties or custom data types. Compounds can be imported into the workbench by drawing structures in the web browser, copy and paste, from local files, or from a PubChem search which includes an online molecular editor. The website is free and open to all users and there is no login requirement. To obtain an overview of the available services, check out the [help](/help) page.
 
-#### Lorem Ipsum New feature
+#### New feature
 
 All ChemMine Tools can now be used programmatically from the R programming language with [ChemmineR](http://bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html#chemmine-tools-r-interface).
 
@@ -26,7 +26,7 @@ All ChemMine Tools can now be used programmatically from the R programming langu
 <div class="card-body">
 
 {:.card-title}
-### LIpsum Browser Recommendation
+### Browser Recommendation
 
 {:.card-text}
 This site is developed with recent (c. 2019) versions of major desktop web browsers (Chrome, Firefox, Safari) in mind. Some tools may be unavailable or may not function as expected with other browsers.
@@ -40,7 +40,7 @@ This site is developed with recent (c. 2019) versions of major desktop web brows
 <div class="card-body">
 
 {:.card-title}
-### LIpsum Free Support
+### Free Support
 
 {:.card-text}
 Do you have any questions, bug reports, or suggestions on how we could make ChemMine tools more intuitive, powerful, or useful?
@@ -54,7 +54,7 @@ Do you have any questions, bug reports, or suggestions on how we could make Chem
 <div class="card-body">
 
 {:.card-title}
-### Derpsum Citing ChemMine Tools
+### Citing ChemMine Tools
 
 {:.card-text}
 ChemMine tools: an online service for analyzing and clustering small molecules.
